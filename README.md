@@ -7,9 +7,9 @@ This is a collaborative project undertaken as part of Ocean Hack Week 2022.
 ---
 ### Collaborators
 
-Hung Nguyen (email: hung.nguyen@uconn.edu)
-De'Marcus (email: demarcus1.robinson@atmos.ucla.edu)
-Adam Kemberling (email: akemberling@gmri.org)
+- Hung Nguyen (email: hung.nguyen@uconn.edu)
+- De'Marcus (email: demarcus1.robinson@atmos.ucla.edu)
+- Adam Kemberling (email: akemberling@gmri.org)
 
 ---
 ### Background
